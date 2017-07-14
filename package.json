@@ -1,6 +1,6 @@
 {
   "name": "ndx-touch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mobile touch events for ndx-framework",
   "main": "build/index.js",
   "scripts": {
